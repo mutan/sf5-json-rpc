@@ -1,2 +1,2 @@
-Реализация JSON-RPC API в sf4  
-See https://github.com/mutan/sf-json-rpc/blob/master/docs/api.md
+Реализация JSON-RPC API в sf5  
+See https://github.com/mutan/sf5-json-rpc/blob/master/docs/api.md
