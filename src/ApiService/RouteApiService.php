@@ -1,0 +1,1 @@
+<?phpdeclare(strict_types=1);namespace App\ApiService;class RouteApiService{    /**     * @ApiMethod     */    public function get()    {        return ['status' => 'ok', 'data' => []];    }    /**     * @ApiMethod     */    public function set()    {    }}
