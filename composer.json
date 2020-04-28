@@ -10,6 +10,7 @@
         "doctrine/doctrine-bundle": "^2.0",
         "doctrine/doctrine-migrations-bundle": "^2.0",
         "doctrine/orm": "^2.7",
+        "mutan/docker-for-sf": "^1.0",
         "phpdocumentor/reflection-docblock": "^4.0",
         "sensio/framework-extra-bundle": "^5.5",
         "symfony/asset": "^5.0",
@@ -50,6 +51,13 @@
         "symfony/var-dumper": "^5.0",
         "symfony/web-profiler-bundle": "^5.0"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "ssh://git@github.com:22/mutan/docker-for-sf.git",
+            "reference": "master"
+        }
+    ],
     "config": {
         "preferred-install": {
             "*": "dist"

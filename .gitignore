@@ -1,5 +1,10 @@
 /.idea/
 
+###> mutan/docker-for-sf ###
+docker
+docker-compose.yml
+###< mutan/docker-for-sf ###
+
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php

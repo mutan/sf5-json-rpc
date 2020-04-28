@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d492d4217ec0483c996dce2b90af3ce7",
+    "content-hash": "9af8aafcc0889c360e376912af5f9035",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1340,6 +1340,27 @@
                 "psr-3"
             ],
             "time": "2019-12-20T14:22:59+00:00"
+        },
+        {
+            "name": "mutan/docker-for-sf",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "ssh://git@github.com:22/mutan/docker-for-sf.git",
+                "reference": "3d04927d751e3c325e969686347e1c2f2cdfb19f"
+            },
+            "type": "library",
+            "license": [
+                "MIT License"
+            ],
+            "authors": [
+                {
+                    "name": "Akim Gubanov",
+                    "email": "akim.gubanov@gmail.com"
+                }
+            ],
+            "description": "Docker compose for fast local dev environment",
+            "time": "2020-03-03T10:03:56+00:00"
         },
         {
             "name": "ocramius/package-versions",

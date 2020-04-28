@@ -1,4 +1,7 @@
 {
+    "mutan/docker-for-sf": {
+        "version": "1.0"
+    },
     "php": {
         "version": "7.3"
     }
